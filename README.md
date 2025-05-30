@@ -1,12 +1,12 @@
 <h2 align="center">Hi, I'm Tejasva Verma 👋</h2>
 <p align="center">
-  🎓 AI & ML Student • 🧠 ML Enthusiast • 
+  🎓 AI & ML Student • 🧠 ML Enthusiast • 🎨 Portrait Artist
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🏫 B.Tech (AI & ML) @ Dr. AITH, Kanpur (2nd Year)
+- 🏫 B.Tech AI & ML @ Dr. AITH, Kanpur (2nd Year)
 - 🔨 Building Python, Flask & ML projects
 - 🎯 Goal: Become an ML Engineer | GSoC Aspirant
 - 📬 Email: artisttejasvaverma@gmail.com
@@ -15,7 +15,9 @@
 
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)
+![C](https://img.shields.io/badge/-C-black?logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask)
 ![Machine Learning](https://img.shields.io/badge/-ML-black?logo=scikit-learn)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
