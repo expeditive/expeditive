@@ -7,8 +7,7 @@
 
 ### 🚀 About Me
 - 🏫 B.Tech AI & ML @ Dr. AITH, Kanpur (2nd Year)
-- 🔨 Building Python, Flask & ML projects
-- 🎯 Goal: Become an ML Engineer | GSoC Aspirant
+- 🔨 Building ML projects and analysing datasets
 - 📬 Email: artisttejasvaverma@gmail.com
 
 ---
