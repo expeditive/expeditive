@@ -1,4 +1,4 @@
-![banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYxZGNnaG02azB2OXIxZDV0cG9uOXAzNWp1eHhwMWRocm1lOW12bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)
+![banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dtMGJ0amxvdWh4Mm1vN3o4bnYzOHZjdzV2YXhnZjdhbDB5YWtvNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 
 # 💫 About Me:
