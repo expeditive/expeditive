@@ -1,3 +1,5 @@
+![banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 # 💫 About Me:
 👋 Hi, I’m Tejasva — an engineering student who loves mixing code, creativity, and logic.<br>💡 I build ML-powered apps, backend systems, and aesthetic web experiences.
 
