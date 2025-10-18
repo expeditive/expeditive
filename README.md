@@ -4,13 +4,7 @@
 
 
 
-<h1 align="center">Hey there 👋, I'm Tejasva Verma</h1>
-<h3 align="center">💻 Engineering Student | 🧠 ML & Backend Developer | 🎨 Creative Coder</h3>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Turning+Code+Into+Creativity;Machine+Learning+%26+Backend+Developer;Always+Building+Something+New+🚀" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F756BE&center=true&multiline=true&width=435&lines=Hey+there+!%F0%9F%91%8B%2C+I'm+Tejasva+Verma+;%F0%9F%92%BB+Engineering+Student+%7C+%F0%9F%A7%A0+ML+%26+Backend+Developer+%7C+%F0%9F%8E%A8+Creative+Coder)](https://git.io/typing-svg)
 
 
 <h3 align="center">🌐 Connect With Me</h3>
