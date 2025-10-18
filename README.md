@@ -17,8 +17,6 @@
 <p align="center">
   <a href="https://instagram.com/__tejasverma"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://linkedin.com/in/tejasva-verma-42193428b"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://pinterest.com/tejas24verma"><img src="https://skillicons.dev/icons?i=pinterest" /></a>
-  <a href="https://youtube.com/@UCRVimh14Bmzaqzfnf0zdHUA"><img src="https://skillicons.dev/icons?i=youtube" /></a>
   <a href="mailto:artisttejasvaverma@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
