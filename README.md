@@ -3,9 +3,7 @@
 </p>
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F756BE&center=true&multiline=true&width=435&lines=Hey+there+!%F0%9F%91%8B%2C+I'm+Tejasva+Verma+;%F0%9F%92%BB+Engineering+Student+%7C+%F0%9F%A7%A0+ML+%26+Backend+Developer+%7C+%F0%9F%8E%A8+Creative+Coder)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FB36CF&center=true&multiline=true&width=435&lines=Hey+there+!%F0%9F%91%8B%2C+I'm+Tejasva+Verma+;%F0%9F%92%BB+Engineering+Student+;%F0%9F%A7%A0+ML+%26+Backend+Developer;%F0%9F%8E%A8+Creative+Coder)](https://git.io/typing-svg)
 
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
