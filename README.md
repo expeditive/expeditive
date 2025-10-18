@@ -1,4 +1,5 @@
-![banner]([https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dtMGJ0amxvdWh4Mm1vN3o4bnYzOHZjdzV2YXhnZjdhbDB5YWtvNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif))
+![banner](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 
 # 💫 About Me:
