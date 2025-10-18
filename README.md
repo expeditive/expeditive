@@ -1,10 +1,14 @@
 ![banner](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
+<h1 align="center">Hey there 👋, I'm Tejasva Verma</h1>
+<h3 align="center">💻 Engineering Student | 🧠 ML & Backend Developer | 🎨 Creative Coder</h3>
 
-# 💫 About Me:
-👋 Hi, I’m Tejasva — an engineering student who loves mixing code, creativity, and logic.<br>💡 I build ML-powered apps, backend systems, and aesthetic web experiences.
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Turning+Code+Into+Creativity;Machine+Learning+%26+Backend+Developer;Always+Building+Something+New+🚀" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@__tejasverma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasva-verma-42193428b) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tejas24verma) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCRVimh14Bmzaqzfnf0zdHUA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:artisttejasvaverma@gmail.com) 
