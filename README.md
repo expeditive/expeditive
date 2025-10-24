@@ -2,8 +2,7 @@
   <img src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s500x750/2596a82fa0e62ef42a8ab29668be6da4d9d3fb28.gif" />
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=400&color=FB36CF&width=435&lines=Hey+there+!%F0%9F%91%8B%2C+I'm+Tejasva+Verma+;%F0%9F%92%BB+Engineering+Student+;%F0%9F%A7%A0+ML+%26+Backend+Developer;%F0%9F%8E%A8+Creative+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=E42FA1&width=435&lines=Hey+!+%2C+I'm+Tejasva+Verma+;Python+Dev;exploring+backend+)](https://git.io/typing-svg)
 
 
 <h3 align="center">🌐 Connect With Me</h3>
