@@ -1,7 +1,9 @@
-![Header GIF](https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s500x750/2596a82fa0e62ef42a8ab29668be6da4d9d3fb28.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=E42FA1&width=435&lines=Hey+!+%2C+I'm+Tejasva+Verma+;Python+Dev;exploring+backend+)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s500x750/2596a82fa0e62ef42a8ab29668be6da4d9d3fb28.gif?raw=true" />
+</p>
 
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
