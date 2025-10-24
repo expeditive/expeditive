@@ -1,7 +1,7 @@
 
-<p align="center">
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=E42FA1&width=435&lines=Hey+!+%2C+I'm+Tejasva+Verma+;Python+Dev;exploring+backend+)](https://git.io/typing-svg)
-</p>
+
 
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
